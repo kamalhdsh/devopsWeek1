@@ -1,2 +1,3 @@
-hello devops week1
+
+echo Hello DEVOPS
 
